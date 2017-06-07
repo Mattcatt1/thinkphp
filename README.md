@@ -1,2 +1,0 @@
-# thinkphp
-A thinkphp project
